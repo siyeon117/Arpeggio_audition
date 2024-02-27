@@ -2,7 +2,7 @@
   background-color: rgb(255, 255, 255);
   margin: auto;
   margin-top: 5%;
-  width: 700px;
+  width: 600px;
   height: 1000px;
   padding: auto;
   border: 1px solid rgba(199, 199, 199, 0.712);
@@ -11,23 +11,23 @@
 .main_box img {
   width: 50%;
   margin-top: 5%;
-  margin-left: 180px;
+  margin-left: 150px;
 }
 
 .video1 {
   width: 75%;
-  margin-left: 100px;
+  margin-left: 80px;
   margin-top: 80px;
 }
 
 .video2 {
   width: 75%;
-  margin-left: 100px;
+  margin-left: 80px;
   margin-top: 50px;
 }
 
 .btn {
-  width: 500px;
+  width: 400px;
   height: 40px;
   text-align: center;
   margin: 0px auto;
@@ -44,7 +44,7 @@
   margin-top: 50px;
   margin-left: 25vw;
   margin-right: 25vw;
-  width: 500px;
+  width: 400px;
   height: 40px;
   border: 1px solid rgba(199, 199, 199, 0.712);
   border-radius: 30px;
