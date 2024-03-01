@@ -3,7 +3,7 @@
   margin: auto;
   margin-top: 5%;
   width: 600px;
-  height: 1000px;
+  height: 1350px;
   padding: auto;
   border: 1px solid rgba(199, 199, 199, 0.712);
 }
@@ -21,6 +21,12 @@
 }
 
 .video2 {
+  width: 75%;
+  margin-left: 13%;
+  margin-top: 50px;
+}
+
+.video3 {
   width: 75%;
   margin-left: 13%;
   margin-top: 50px;
