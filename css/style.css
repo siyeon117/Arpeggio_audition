@@ -39,7 +39,7 @@
   margin: 0px auto;
   background-color: rgb(63, 91, 248);
   border-radius: 15px;
-  border: rgb(145, 145, 145);
+  border: 1px solid rgb(145, 145, 145);
   font-size: 18px;
   color: aliceblue;
 }
@@ -56,6 +56,40 @@
   border-radius: 30px;
   text-align: center;
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.youtubebtn img {
+  width: 50%;
+  margin-left: 10px;
+}
+
+.instagrambtn img {
+  width: 45%;
+  margin-top: 10px;
+}
+
+.youtubebtn {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 37vw;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.instagrambtn {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(255, 255, 255);
+  font-size: 20px;
+  margin-top: -173px;
+  margin-left: 79vw;
+  text-align: center;
   justify-content: center;
   align-items: center;
 }
